@@ -1,3 +1,5 @@
+-- Note This Code is longer than minigun system should be because it includes things such as: diffrent ammo types, random direction whenever player is moving, Custom death animation and much more
+
 local Player = script.Parent.Parent.Parent
 local Minigun = script.Parent
 local TS = game:GetService("TweenService")
